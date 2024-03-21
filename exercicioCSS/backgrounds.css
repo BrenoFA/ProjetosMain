@@ -1,0 +1,34 @@
+div{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 5px black dashed;
+}
+#div1{
+    background-color: yellow;
+}
+#div2{
+    background-color: #c1a4cd;
+    background-clip: padding-box;
+}
+#div3{
+    background-image: url(./loud.avif);
+    background-repeat: no-repeat;
+}
+#div4{
+    background-image: url(./macaco.jfif);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+#div5{
+    background-image: url(./herobrine.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+}
+body{
+    background-image: url(https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+}
